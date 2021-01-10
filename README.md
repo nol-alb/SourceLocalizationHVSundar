@@ -8,7 +8,7 @@ In this project we will implement an end-to-end deep convolutional neural networ
 ![alt text](https://raw.githubusercontent.com/nol-alb/HVsundarSourceLocalization/main/images/Screenshot%202021-01-10%20at%2011.54.15%20PM.png)
 
 
-References:
+### References:
 [1]: Harshavardhan Sundar, Weiran Wang, Ming Sun, and Chao Wang. 2020. Raw waveform based end-to-end deep convolutional network for spatial localization of multiple acoustic sources. In Proceedings of IEEE ICASSP, Barcelona, Spain, May 4--8, 2020
 
 
