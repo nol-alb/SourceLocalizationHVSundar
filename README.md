@@ -9,9 +9,9 @@ In this project we will implement an end-to-end deep convolutional neural networ
 
 
 ### References:
-[1]: Harshavardhan Sundar, Weiran Wang, Ming Sun, and Chao Wang. 2020. Raw waveform based end-to-end deep convolutional network for spatial localization of multiple acoustic sources. In Proceedings of IEEE ICASSP, Barcelona, Spain, May 4--8, 2020
+[1]: Harshavardhan Sundar, Weiran Wang, Ming Sun, and Chao Wang. 2020. Raw waveform based end-to-end deep convolutional network for spatial localization of multiple acoustic sources. In Proceedings of IEEE ICASSP, Barcelona, Spain, May 4--8, 2020\
 [2]: E.A.P. Habets, “Room impulse response (RIR) generator,”
-Sep. 2010.
-[3]: Jongpil Lee, Jiyoung Park, Keunhyoung Luke Kim, and Juhan Nam, “Sample-level deep convolutional neural networks for music auto-tagging using raw waveforms,” in Sound and Music Computing Conference (SMC), 2017.
+Sep. 2010.\
+[3]: Jongpil Lee, Jiyoung Park, Keunhyoung Luke Kim, and Juhan Nam, “Sample-level deep convolutional neural networks for music auto-tagging using raw waveforms,” in Sound and Music Computing Conference (SMC), 2017.\
 
 
