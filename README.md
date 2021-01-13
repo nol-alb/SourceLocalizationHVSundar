@@ -1,4 +1,6 @@
-# RAW WAVEFORM BASED END-TO-END DEEP CONVOLUTIONAL NETWORK FOR SPATIAL LOCALIZATION OF MULTIPLE ACOUSTIC SOURCES
+# Sound Event Localisation Using an End to End Deep Convolutional Neural Network
+
+## RAW WAVEFORM BASED END-TO-END DEEP CONVOLUTIONAL NETWORK FOR SPATIAL LOCALIZATION OF MULTIPLE ACOUSTIC SOURCES
 
 This repository holds code for the final year thesis project at PESIT - Bangalore South Campus. 
 
