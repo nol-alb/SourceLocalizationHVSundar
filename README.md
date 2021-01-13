@@ -1,6 +1,6 @@
 # Sound Event Localisation Using an End to End Deep Convolutional Neural Network
 
-## RAW WAVEFORM BASED END-TO-END DEEP CONVOLUTIONAL NETWORK FOR SPATIAL LOCALIZATION OF MULTIPLE ACOUSTIC SOURCES
+## Raw Waveform Based End-to-End Deep Convolutional Network For Spatial Localization Of Multiple ACcoustic Sources
 
 This repository holds code for the final year thesis project at PESIT - Bangalore South Campus. 
 
