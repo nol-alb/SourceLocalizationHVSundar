@@ -1,4 +1,4 @@
-# Sound Event Localisation Using an End to End Deep Convolutional Neural Network
+# Sound Event Localisation Using an End to End Deep Convolutional Neural Network (replication)
 
 ## Raw Waveform Based End-to-End Deep Convolutional Network For Spatial Localization Of Multiple ACcoustic Sources
 
